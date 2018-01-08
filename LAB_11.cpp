@@ -6,6 +6,7 @@ using namespace std;
 
 template <typename T>
 //UPDATE 1
+//update 1 si 2
 class Stack
 {
 public:
